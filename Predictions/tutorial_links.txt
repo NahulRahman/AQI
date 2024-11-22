@@ -1,0 +1,18 @@
+Reference code files
+1. https://github.com/krishnaik06/ARIMA-And-Seasonal-ARIMA/blob/master/Untitled.ipynb
+2. https://medium.com/swlh/temperature-forecasting-with-arima-model-in-python-427b2d3bcb53
+3. https://github.com/bhattbhavesh91/auto-ts-tutorial/blob/main/auto-ts-notebook.ipynb
+4. https://www.kaggle.com/code/robikscube/time-series-forecasting-with-prophet-yt
+5. https://github.com/daveebbelaar/data-science-tutorials/blob/main/notebooks/Predicting%20the%20Future%20with%20Sktime.ipynb
+6. https://github.com/liannewriting/YouTube-videos-public/blob/main/arima-model-time-series-prediction-python/time-series-arima.ipynb
+7. https://colab.research.google.com/drive/1HxPsJvEAH8L7XTmLnfdJ3UQx7j0o1yX5?usp=sharing
+
+
+Youtube tutorials
+1. https://youtu.be/5N-0-QItwWE?si=0oOKqCGWJyxLb5x6
+2. https://youtu.be/YVQzFCPkgt4?si=D3-Y6lxl-6WalYw8
+3. https://youtu.be/j0eioK5edqg?si=KcWpiidsdQj9Sd8V
+4. https://youtu.be/_qv_7lEuiZg?si=5PIqEObPey2aXdAq
+5. https://youtu.be/5N-0-QItwWE?si=38pfyYheQScRGc_I
+6. https://youtu.be/-aCF0_wfVwY?si=gJek8EdT7vzoDInJ
+7. https://youtu.be/c0k-YLQGKjY?si=x13kig4-37ysXZlJ
